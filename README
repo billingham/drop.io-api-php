@@ -1,1 +1,5 @@
-This is a simple library to access the API that have been made public by http://drop.io
+This is a simple library to access the API that have been made public by 
+
+rdoc drop.io[http://drop.io]
+texttile "drop.io":http://drop.io
+markdown [drop.io](http://drop.io)
